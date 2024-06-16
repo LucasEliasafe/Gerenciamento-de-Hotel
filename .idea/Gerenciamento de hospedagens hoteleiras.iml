@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="DBE_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d637fe41-f4f6-4854-a5c5-8e3977f59185" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
